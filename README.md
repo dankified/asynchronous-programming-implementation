@@ -18,5 +18,5 @@
 4. Create a new ```async``` function that does the same thing as the previous function, but now you will handle errors for each ```function``` independently instead of wrapping all your code in a ```try/catch``` block. 
 Hint: ```Promises``` returned by ```axios``` have access to a ```catch``` method that allows to handle errors independently.
 
-## Now, if you feel lucky punk, do the same thing all over again using promises
+## Now, if you feel lucky, punk, do the same thing all over again using promises
  
